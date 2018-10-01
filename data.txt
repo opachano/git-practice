@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Name: Oscar Pachano
 Age: 29
 Favorite Color: Black
+=======
+Name: Oscar Pachano
+Age 29
+Favorite color: Black
+>>>>>>> 6658e44396785029a128013d004b600bb4d2150e
